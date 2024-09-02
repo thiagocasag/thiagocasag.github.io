@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/probabilisticcircuits)
+[Project 1 Title](/probabilistic_circuits)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
