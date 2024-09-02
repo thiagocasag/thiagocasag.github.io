@@ -2,7 +2,7 @@
 
 ---
 
-### Projeto: Um Estudo sobre Algoritmos para Aprendizado Estrutural de Circuitos Probabilísticos 
+### Projeto 1
 
 [Um Estudo sobre Algoritmos para Aprendizado Estrutural de Circuitos Probabilísticos](/probabilistic_circuits.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
