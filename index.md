@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projeto: Um Estudo sobre Algoritmos para Aprendizado Estrutural de Circuitos Probabilísticos 
 
-[Project 1 Title](/probabilistic_circuits)
+[Project 1 Title](/probabilistic_circuits.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
