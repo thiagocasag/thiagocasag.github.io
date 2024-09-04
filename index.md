@@ -3,7 +3,7 @@
 ---
 
 [Um Estudo sobre Algoritmos para Aprendizado Estrutural de Circuitos Probabilísticos](/probabilistic_circuits.md)
-  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+  <img src="images/trigaussiana.png?raw=true"/>
 
 ---
 [Predição de Ataques Cardíacos com uso de Aprendizado de Máquina](/heart_analysis.md)
