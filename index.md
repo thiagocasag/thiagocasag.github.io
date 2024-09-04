@@ -3,6 +3,7 @@
 ---
 
 [Um Estudo sobre Algoritmos para Aprendizado Estrutural de Circuitos Probabilísticos](/probabilistic_circuits.md)
+
   <img src="images/trigaussiana.png?raw=true"/>
 
 ---
