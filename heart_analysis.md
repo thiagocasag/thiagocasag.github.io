@@ -4,4 +4,4 @@ Heart attacks continue to be one of the leading causes of mortality worldwide, m
 
 With this in mind, this work aims to use different machine learning models, from simpler ones like Support Vector Machines (SVM) and decision trees to more complex ones like neural networks, to predict heart attacks using a dataset containing information on a series of patients, their health-related variables, and whether or not they experienced a heart attack.
 
-The work was implemented in Python and can be analyzed [here](link).
+The work was implemented in Python and can be analyzed [here](https://github.com/thiagocasag/heart_attack_analysis).
