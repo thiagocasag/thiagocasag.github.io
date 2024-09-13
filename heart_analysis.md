@@ -1,7 +1,7 @@
-## Predição de Ataques Cardíacos com o uso de Aprendizado de Máquina
+## Prediction of Heart Attacks Using Machine Learning
 
-Os ataques cardíacos continuam sendo uma das principais causas de mortalidade no mundo, tornando sua solução, ou, ao menos, mitigação, um desafio urgente. No entanto, a complexidade dos fatores de risco envolvidos, como histórico familiar, estilo de vida, e condições de saúde preexistentes, torna a previsão de ataques cardíacos uma tarefa desafiadora. Com isto, os diferentes modelos de aprendizado de máquina emergem como uma eficiente ferramenta que, com o uso de conjuntos de dados médicos, podem identificar padrões sutis que podem ser precursores de um ataque cardíaco.
+Heart attacks continue to be one of the leading causes of mortality worldwide, making their prevention or at least mitigation an urgent challenge. However, the complexity of the risk factors involved, such as family history, lifestyle, and pre-existing health conditions, makes predicting heart attacks a challenging task. In this context, different machine learning models emerge as effective tools that, using medical datasets, can identify subtle patterns that might be precursors to a heart attack.
 
-Com isto em mente, este trabalho tem como objetivo utilizar diferentes modelos de aprendizado de máquina, desde mais simples, como máquinas de vetores de suporte (SVM) e árvores de decisão, até mais complexas, como redes neurais, para a predição de ataques cardíacos utilizando-se de um conjunto de dados contendo uma série de pacientes, variáveis em relação a saúde destes, e se houve ou não ataque cardíaco.
+With this in mind, this work aims to use different machine learning models, from simpler ones like Support Vector Machines (SVM) and decision trees to more complex ones like neural networks, to predict heart attacks using a dataset containing information on a series of patients, their health-related variables, and whether or not they experienced a heart attack.
 
-O trabalho produzido foi implementado em _Python_ e pode ser analisado [aqui](link).
+The work was implemented in Python and can be analyzed [here](link).
