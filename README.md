@@ -1,51 +1,28 @@
-## Developer Portfolio Landing Page Template
+# Thiago Peres Casagrande - Developer Portfolio
 
-### Introduction
+## Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Welcome to my developer portfolio! Here you will find my projects and skills related to data science and software development.
 
-<img src="images/demo.gif?raw=true"/>
+## Projects
 
-### Installation
+- **[Project 1](link-to-project)**: Brief description of the project.
+- **[Project 2](link-to-project)**: Brief description of the project.
+- **[Project 3](link-to-project)**: Brief description of the project.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+## Skills
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+- Python
+- Julia
+- Machine Learning
+- Data Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Credits
 
-### Markdown
+- Jekyll theme "Minimal" for GitHub Pages: [Minimal Theme](https://github.com/pages-themes/minimal) (CC0 1.0 Universal License)
+- Dummy photo via: [Pixabay](https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/) (Pixabay License)
+- Thumbnail image created by rawpixel.com: [Freepik](https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm) (Standard Freepik License)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+Feel free to reach out to me at [thiagopcasag@gmail.com](mailto:thiagopcasag@gmail.com).
