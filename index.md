@@ -9,7 +9,7 @@
 ---
 [Prediction of Heart Attacks Using Machine Learning](/heart_analysis.md)
 
-  <img src="images/dummy_thumbnail.jpg?raw=true"/>
+  <img src="images/kenny-eliason-MEbT27ZrtdE-unsplash.jpg"/>
 
 ---
 [Crime in São Paulo: an Exploratory and Geospatial Analysis](http://example.com/)
