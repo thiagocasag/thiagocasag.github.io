@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Welcome to my portfolio! Here you will find my projects and skills related to data analysis and machine learning.
+Hello! I'm Thiago, a mathematician experienced in data analysis and machine learning.
+Here you will find a collection of my academic and personal projects.
 
 ## Credits
 
@@ -12,4 +13,4 @@ Welcome to my portfolio! Here you will find my projects and skills related to da
 
 ## Contact
 
-Feel free to reach out to me at [thiagopcasag@gmail.com](mailto:thiagopcasag@gmail.com).
+Feel free to reach me out if you want to talk about my projects at [thiagopcasag@gmail.com](mailto:thiagopcasag@gmail.com).
