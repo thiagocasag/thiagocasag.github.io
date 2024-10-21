@@ -1,21 +1,8 @@
-# Thiago Peres Casagrande - Developer Portfolio
+# Thiago Peres Casagrande - Data Science Portfolio
 
 ## Introduction
 
-Welcome to my developer portfolio! Here you will find my projects and skills related to data science and software development.
-
-## Projects
-
-- **[Project 1](link-to-project)**: Brief description of the project.
-- **[Project 2](link-to-project)**: Brief description of the project.
-- **[Project 3](link-to-project)**: Brief description of the project.
-
-## Skills
-
-- Python
-- Julia
-- Machine Learning
-- Data Analysis
+Welcome to my portfolio! Here you will find my projects and skills related to data analysis and machine learning.
 
 ## Credits
 
