@@ -2,4 +2,4 @@ Crime in the largest metropolis in Latin America is a historical concern, impact
 
 The analysis will be conducted in four main stages. In the first stage, the datasets will be prepared for exploratory and geospatial analysis. Next, an exploratory analysis of crime will be performed to map occurrence patterns. In the third stage, the necessary features will be prepared for training a machine learning model, aiming to effectively predict the type of policing needed in each area. Finally, the last stage will involve training, testing, and validating the model to ensure its effectiveness in predicting crime.
 
-This is an ongoing project and is still in progress. As the research advances, the results will be made available on this page. However, preliminar results can be found here.
+This is an ongoing project and is still in progress. As the research advances, the results will be made available on this page. However, preliminar results can be found [here](https://github.com/thiagocasag/crime_in_sp_analysis).
