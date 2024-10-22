@@ -12,7 +12,7 @@
 <img src="images/heart.png?raw=true" width="300"/>
 
 ---
-[Crime in São Paulo: an Exploratory and Geospatial Analysis](http://example.com/)
+[Crime in São Paulo: an Exploratory and Geospatial Analysis](/crime_analysis.md)
 
 <img src="images/crime_sp.png?raw=true" width="300"/>
 
